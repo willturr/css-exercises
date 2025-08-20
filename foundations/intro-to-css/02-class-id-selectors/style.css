@@ -1,0 +1,19 @@
+.odd_lines {
+    background-color: pink;
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+#second_line {
+    color: blue;
+    font-size: 36px;
+}
+
+.third_line {
+    font-size: 24px
+}
+
+#fourth_line {
+    background-color: #9cee9c;
+    font-size: 24px;
+    font-weight: bold;
+}
